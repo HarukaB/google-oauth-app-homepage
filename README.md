@@ -6,14 +6,13 @@ It does **not store**, **process**, or **share** any user data beyond what is ne
 ## Features
 
 - Local-only operation, no server or data sharing
-- Uses Google OAuth to access Drive and Docs
+- Uses Google OAuth to access Drive
 - Simple workflow for personal file automation
 
 ## Scopes Requested
 
 - `https://www.googleapis.com/auth/drive`
 - `https://www.googleapis.com/auth/drive.metadata.readonly`
-- `https://www.googleapis.com/auth/docs`
 
 Only minimal permissions are requested to support Drive access and basic identity confirmation.
 
