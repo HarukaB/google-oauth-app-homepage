@@ -1,12 +1,12 @@
-# Drive Access Tool (Private Use)
+# GAccess
 
-This is a personal utility for accessing my own Google Drive files using OAuth 2.0 authorization.  
+This is a personal utility for accessing Google APIs using OAuth 2.0 authorization for personal usage.  
 It does **not store**, **process**, or **share** any user data beyond what is necessary for the authorized session.
 
 ## Features
 
 - Local-only operation, no server or data sharing
-- Uses Google OAuth to access Drive
+- Uses Google OAuth to access Drive and Docs
 - Simple workflow for personal file automation
 
 ## Scopes Requested
