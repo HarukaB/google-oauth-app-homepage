@@ -17,7 +17,6 @@ The app uses Google OAuth 2.0 to request the following scopes:
 
 - `https://www.googleapis.com/auth/drive` - access to Google Drive
 - `https://www.googleapis.com/auth/drive.metadata.readonly` - access to Google Drive when read-only mode is enabled
-- `https://www.googleapis.com/auth/docs` - access to Google Docs
 
 These scopes are required only to enable file interaction and confirm identity. No data is stored, logged, or shared.
 
